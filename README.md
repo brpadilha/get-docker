@@ -4,6 +4,8 @@ The platform get docker templates (Dockerfile and docker-compose)
 
 ## Available Scripts
 
+In the project directory, you can run ### `yarn` to install the packages.
+
 In the project directory, you can run:
 
 ### `yarn start`
